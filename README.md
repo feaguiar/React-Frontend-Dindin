@@ -1,3 +1,19 @@
+## Sobre o desafio
+Desafio final do módulo 3 proposto pela Cubos Academy, com o objetivo de por em prática tudo que aprendemos na unidade (react, integração com API, banco de dados SQL, entre outras coisas)
+
+## Sobre a aplicação
+Uma aplicação simples e útil com um design incrível que possibilita o usuário registrar suas transações, que podem ser de entrada ou saída. Além disso o usuário também poderá editar cada transação, excluí-la, ver o resumo (saldo) e editar seu perfil.
+
+## Technologies
+React Native
+Date-fns
+Axios
+PostgreSQL
+Express
+JsonWebToken
+SecurePassword
+
+
 ![](https://i.imgur.com/xG74tOh.png)
 
 # Desafio | Front-end - Módulo 3
